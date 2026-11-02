@@ -2,7 +2,7 @@
 
 This repository contains:
 
-📂 1. SQL Schema
+📂 1. SQL Schema boy
 
 Students table
 
